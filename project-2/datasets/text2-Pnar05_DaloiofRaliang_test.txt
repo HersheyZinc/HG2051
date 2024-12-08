@@ -1,0 +1,27 @@
+\mb nga toh u= chwas lyngdoh u= daloi jong ka= elaka raliang ka= jing- mut daloi toh u= nong- synchar ha- poh ka= elaka
+\ps pn v clitic= name n clitic= n Khasi clitic= n n clitic= nmz- v n v clitic= nmz- v case- loc clitic= n
+
+\mb bad u= khleih yong ka= niam ka= rukom yong ka= dustur ka= riti ha- poh ka= elaka ka yong i
+\ps conj clitic= n case clitic= n clitic= n case clitic= n clitic= n case- loc clitic= n pn case pn
+
+\mb tæ kam u= daloi toh i= synchar i ya ka= khyndaw wa chyiap ye- i ki nu nu ki= jing- æmkam yong u= paidbah he- i= jing- yatoh wa ki= land holding certificate ki= revision ki= pata - hali toh ka= bor yong nga u= recommend
+\ps deixis v clitic= n v der= v pn case clitic= n conj n case- pn pn n n clitic= nmz- v case clitic= n case- clitic= nmz- v conj clitic= English English English clitic= English clitic= n - n v clitic= n case pn der= English
+
+\mb dæp ne- i= tæ u= phorward cha district council ka= district council yee ko u= issue pata ya ki= paidbah ki= khon ka= riot yong ka= elaka
+\ps aspect case- clitic= deixis der= English case English English clitic= English English v pn clitic= English n case clitic= n clitic= n clitic= n case clitic= n
+
+\mb ka= tæ toh ka= bor yong u= daloi bad ha ka= bor yong nga u= daloi i yee u= synchar khadar ya u= bichar i ya ki= mokot duma
+\ps clitic= deixis v clitic= n case clitic= n conj case clitic= n case pn clitic= n pn v der= v v case der= v pn case der= v n
+
+\mb ki= rebenu case ki= suit case kam- tæ tæ tæ tæ ki= kam yong nga ka u= daloi toh boon bha ha- poh ka= elaka raliang wa u= pait i ya u ki= pood ki= sam
+\ps clitic= English English clitic= English English adv- deixis deixis deixis deixis der= v case pn pn clitic= n v v adv case- loc clitic= n n mod der= v pn case pn clitic= n clitic= n
+
+\mb ye- i ki= khajia ki= awri awra yong ki= khon ka= riot yong i ha- poh ka= elaka wa u= pyn- bait pyn- sud i ki u= thoo lad kammon u= pyn- chong suk chong - sain ya ki= khon ka= riot yong i ha- poh ka= elaka raliang
+\ps case- pn der= v der= v v case clitic= n clitic= n case pn case- loc clitic= n mod der= prefix- v prefix- v pn pn der= v n q der= prefix- v v v - v case clitic= n clitic= n case pn case- loc clitic= n n
+
+\mb tæ toh ka= kamram ka u= daloi yong ka= elaka raliang bad kam- jooh u= pait ya ka= knia ka= khriam ye- i= læh niam læh rukom ha- poh yong ka= raid i= thaw yong i ha- poh ka= elaka
+\ps deixis v clitic= n pn clitic= n case clitic= n n conj adv- v der= v case clitic= n der= v case- clitic= v n v n case- loc case clitic= n clitic= n case pn case- loc clitic= n
+
+\mb kat- tæ toh ka= kamram yong nga ka u= daloi tæ da biang nong kat- tæ
+\ps adv- deixis v clitic= n case pn pn clitic= n deixis mood v q adv- deixis
+

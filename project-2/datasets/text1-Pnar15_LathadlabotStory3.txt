@@ -1,0 +1,257 @@
+\id LathadlabotStory3
+\ref LathadlabotStory3Jowai.001
+\ELANBegin 0.000
+\ELANEnd 42.162
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 0.000 42.162
+\tx EMPTY
+\mb EMPTY
+\ph EMPTY
+\ge EMPTY
+\ps EMPTY
+
+\ft `EMPTY.'
+
+\ref LathadlabotStory3Jowai.002
+\ELANBegin 42.162
+\ELANEnd 46.123
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 42.162 46.123
+\tx Nga     retired o       ha   u-snæm       khatkhynde    spah    sanphaw  soo
+\mb nga     retired o       ha   u=      snæm khatkhynde    spah    sanphaw  soo
+\ph ŋa     ritait  ˀɔ    ha   ˀu=    snɛm kʰatkʰn̩de spaʔ   sanpʰaw so
+\ge 1sg.top retired 1sg.nom LOC  M=      year  nineteen      hundred fifty    four
+\ps pn      English pn      case clitic= n     num           num     num      num
+
+\ft `i retired from my service in the year 1954..'
+
+\ref LathadlabotStory3Jowai.003
+\ELANBegin 46.123
+\ELANEnd 50.334
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 46.123 50.334
+\tx Ha   u-snæm       khatkhynde    spah    sanphaw  san, lai shillong
+\mb ha   u=      snæm khatkhynde    spah    sanphaw  san  lai shillong
+\ph ha   ˀu=    snɛm kʰatkʰn̩de spaʔ   sanpʰaw san  laj ʃl̩lɔŋ
+\ge LOC  M=      year  nineteen      hundred fifty    five go  Shillong
+\ps case clitic= n     num           num     num      num  v   name
+
+\ft `In the year 1955, i went to Shillong.'
+
+\ref LathadlabotStory3Jowai.004
+\ELANBegin 50.334
+\ELANEnd 59.192
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 50.334 59.192
+\tx hei-por            chiphaw  chitein da   ka-bus          lai shillong   Hakhmat      Ummulong,   ha   ka-thaw       wa  ong
+\mb he-   i=      por  chiphaw  chitein da   ka=     bus     lai shillong   ha-   khmat  ummulong    ha   ka=     thaw  wa  ong
+\ph he-   ˀi=    pɔr ʧipʰaw ʧiten  da   ka=     bɔs    laj ʃl̩lɔŋ ha-   kʰmat ˀummulɔŋ ha   ka=     tʰaw wa  ˀɔŋ
+\ge LOC-  N=      time ten      half    INST F=      bus     go  Shillong   LOC-  front  Ummulong    LOC  F=      place NMZ say
+\ps case- clitic= n    num      num     case clitic= English v   name       case- loc    name        case clitic= n     mod v
+
+\tx ki  pyn-sum       kule
+\mb ki  pyn-    sum   kule
+\ph ki  pn̩-   sum   kule
+\ge 3pl CAUS-   bathe horse
+\ps pn  prefix- n     n
+
+\ft `i went to Shillong by bus at 10:30 AM. just after passing Ummulong is a place called as Pynsum kule..'
+
+\ref LathadlabotStory3Jowai.005
+\ELANBegin 59.192
+\ELANEnd 61.440
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 59.192 61.440
+\tx hei-tæ              chæm ka-accident
+\mb he-   i=      tæ    chæm ka=     accident
+\ph he-   ˀi=    tɛ    ʧɛm ka=     ˀaksidɛn
+\ge LOC-  N=      nvis   meet  F=      accident
+\ps case- clitic= deixis v     clitic= English
+
+\ft `there i met an accident.'
+
+\ref LathadlabotStory3Jowai.006
+\ELANBegin 61.440
+\ELANEnd 62.862
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 61.440 62.862
+\tx Chong  o       da   ka-bus
+\mb chong  o       da   ka=     bus
+\ph ʧɔŋ ˀɔ    da   ka=     bɔs
+\ge sit    1sg.nom INST F=      bus
+\ps v      pn      case clitic= English
+
+\ft `i was sitting in the bus.'
+
+\ref LathadlabotStory3Jowai.007
+\ELANBegin 62.862
+\ELANEnd 66.167
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 62.862 66.167
+\tx æm   yap ka-wi       ka-kynthai        tymmæn
+\mb æm   yap ka=     wi  ka=     kynthai   tymmæn
+\ph ˀɛm jap ka=     wi  ka=     kn̩tʰaj tm̩mɛn
+\ge have  die F=      one F=      female    be.old
+\ps v     v   clitic= num clitic= n         v
+
+\ft `There is one old woman who died..'
+
+\ref LathadlabotStory3Jowai.008
+\ELANBegin 66.167
+\ELANEnd 73.950
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 66.167 73.950
+\tx Booh     ki  ka-generator,         kylla  ka-bus,         ban       ka-generator,         yap ko,       ka-wi
+\mb booh     ki  ka=     generator     kylla  ka=     bus     ban       ka=     generator     yap ko        ka=     wi
+\ph boʔ     ki  ka=     ʤɛnɛretɔr kl̩la ka=     bɔs    ban       ka=     ʤɛnɛretɔr jap kɔ       ka=     wi
+\ge put,keep 3pl F=      generator     change F=      bus     fold,fall F=      generator     die 3sg.F.nom F=      one
+\ps v        pn  clitic= English       v      clitic= English v         clitic= English       v   pn        clitic= num
+
+\ft `There was the generator that was kept in that bus, the generator fell over this woman and she died..'
+
+\nt "booh ki ka generator, kylla ka-bus.'
+
+\ref LathadlabotStory3Jowai.009
+\ELANBegin 73.950
+\ELANEnd 77.360
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 73.950 77.360
+\tx Nga     yoh   faint   o,      yaplær o
+\mb nga     yoh   faint   o       yaplær o
+\ph ŋa     jɔʔ fen     ˀɔ    japlɛr ˀɔ
+\ge 1sg.top get   faint   1sg.nom faint   1sg.nom
+\ps pn      v     English pn      v       pn
+
+\ft `i fainted, I fainted.'
+
+\nt "yapler o.'
+
+\ref LathadlabotStory3Jowai.010
+\ELANBegin 77.360
+\ELANEnd 84.533
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 77.360 84.533
+\tx tæ    u-wi        u-tæ          u-bru,         u-SDO              electric,     khæñ ka-ni          ka-kti
+\mb tæ    u=      wi  u=      tæ    u=      bru    u=      SDO        electric      khæñ ka=     ni     ka=     kti
+\ph tɛ    ˀu=    wi  ˀu=    tɛ    ˀu=    bru    ˀu=    ˀɛsdiˀo ˀɛlɛktrɪk kʰɛɲ ka=     ni     ka=     kti
+\ge nvis   M=      one M=      nvis   M=      person M=      S.D.O.     electric      break   F=      prox   F=      hand
+\ps deixis clitic= num clitic= deixis clitic= n      clitic= abbrev     English       v       clitic= deixis clitic= n
+
+\ft `There was also one man, the SDO of MeECL, whose hand was fractured in that incident..'
+
+\ref LathadlabotStory3Jowai.011
+\ELANBegin 84.533
+\ELANEnd 93.672
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 84.533 93.672
+\tx hei-tæ              i-por,       sah  ka-ni          ka-kjat       o,      ha   ka-ni          ka-tnoom      yong  ka-bus
+\mb he-   i=      tæ    i=      por  sah  ka=     ni     ka=     kjat  o       ha   ka=     ni     ka=     tnoom yong  ka=     bus
+\ph he-   ˀi=    tɛ    ˀi=    pɔr saʔ ka=     ni     ka=     kʤat ˀɔ    ha   ka=     ni     ka=     tnom  jɔŋ ka=     bɔs
+\ge LOC-  N=      nvis   N=      time stay F=      prox   F=      leg   1sg.nom LOC  F=      prox   F=      roof  GEN   F=      bus
+\ps case- clitic= deixis clitic= n    v    clitic= deixis clitic= n     pn      case clitic= deixis clitic= n     case  clitic= English
+
+\ft `My leg too got stuck on the roof of the bus.'
+
+\ref LathadlabotStory3Jowai.012
+\ELANBegin 93.672
+\ELANEnd 100.905
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 93.672 100.905
+\tx dei-bor             tdæh       o       ka.       Katwa    kiat   ka-tæ         ka-bru,        Ah    bei    da   yap o!!
+\mb de-   i=      bor   tdæh       o       ka        kat- wa  kiat   ka=     tæ    ka=     bru    ah    bei    da   yap o
+\ph de-   ˀi=    bɔr  tdɛʔ      ˀɔ    ka        kat- wa  kiat   ka=     tɛ    ka=     bru    ˀaʔ bej    da   jap ˀɔ
+\ge INST- N=      power pull.up,off 1sg.nom 3sg.F.acc as-  NMZ liquor F=      nvis   F=      person cut   mother REAL die 1sg.nom
+\ps case- clitic= n     v           pn      pn        adv- mod n      clitic= deixis clitic= n      v     n      mood v   pn
+
+\ft `i tried to pull it out with force. after hearing that woman shouted Ah!! Mom, i am dying..'
+
+\ref LathadlabotStory3Jowai.013
+\ELANBegin 100.905
+\ELANEnd 103.079
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 100.905 103.079
+\tx Nga     da   khyrngiat   krik!
+\mb nga     da   khyrngiat   krik
+\ph ŋa     da   kʰr̩ŋiat krik
+\ge 1sg.top REAL realize     suddenly
+\ps pn      mood v           adv
+
+\ft `i got shocked .'
+
+\nt "nga da khyrngiat krik.'
+
+\ref LathadlabotStory3Jowai.014
+\ELANBegin 103.079
+\ELANEnd 110.496
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 103.079 110.496
+\tx Tdæh       o       ka-ni          ka-kjat,      dæp   nei-tæ              tæ    mih       o       cha  lait        tæ    yoo o       ya   ka-ni
+\mb tdæh       o       ka=     ni     ka=     kjat  dæp   ne-   i=      tæ    tæ    mih       o       cha  lait        tæ    yoo o       ya   ka=     ni
+\ph tdɛʔ      ˀɔ    ka=     ni     ka=     kʤat dɛp   ne-   ˀi=    tɛ    tɛ    miʔ      ˀɔ    ʧa  laʲt̪     tɛ    jo  ˀɔ    ja   ka=     ni
+\ge pull.up,off 1sg.nom F=      prox   F=      leg   CPLV   ABL-  N=      nvis   nvis   bring.out 1sg.nom ALL  free,escape nvis   see 1sg.nom BEN  F=      prox
+\ps v           pn      clitic= deixis clitic= n     aspect case- clitic= deixis deixis v         pn      case v           deixis v   pn      case clitic= deixis
+
+\tx ka-bru         wa  da   yap, ka-generator          læh  æm
+\mb ka=     bru    wa  da   yap  ka=     generator     læh  æm
+\ph ka=     bru    wa  da   jap  ka=     ʤɛnɛretɔr lɛʔ ˀɛm
+\ge F=      person NMZ REAL die  F=      generator     also  have
+\ps clitic= n      mod mood v    clitic= English       adv   v
+
+\ft `immediately i pulled out my leg and ran outside, there i saw this dead woman, the generator also was there..'
+
+\nt "tdeh o ka-ni kjat.'
+
+\ref LathadlabotStory3Jowai.015
+\ELANBegin 110.496
+\ELANEnd 113.509
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 110.496 113.509
+\tx dæp   nei-tæ              nga     liwan       wot  o       cha  yung
+\mb dæp   ne-   i=      tæ    nga     liwan       wot  o       cha  yung
+\ph dɛp   ne-   ˀi=    tɛ    ŋa     liwan       wɔt ˀɔ    ʧa  juŋ
+\ge CPLV   ABL-  N=      nvis   1sg.top return.home IMMD 1sg.nom ALL  home
+\ps aspect case- clitic= deixis pn      v           adv  pn      case n
+
+\ft `After that, i return back home..'
+
+\ref LathadlabotStory3Jowai.016
+\ELANBegin 113.509
+\ELANEnd 115.664
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 113.509 115.664
+\tx La   ym  kamtæ          da   yap o
+\mb la   ym  kam-     tæ    da   yap o
+\ph la   m̩ kam-     tɛ    da   jap ˀɔ
+\ge if   NEG as,like- nvis   REAL die 1sg.nom
+\ps conj neg adv-     deixis mood v   pn
+
+\ft `Almost like that i died.'
+
+\ref LathadlabotStory3Jowai.017
+\ELANBegin 115.664
+\ELANEnd 119.538
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 115.664 119.538
+\tx kattu       kattæ      donhi  tbien    u,        ka-tæ
+\mb kat- tu     kat- tæ    donhi  tbian    u         ka=     tæ
+\ph kat- tu     kat- tɛ    dɔnhi tbian    ˀu       ka=     tɛ
+\ge as-  medl   as-  nvis   only   be.short 3sg.M.nom F=      nvis
+\ps adv- deixis adv- deixis conj   v        pn        clitic= deixis
+
+\ft `like this like that only, it's short.'
+
+\ref LathadlabotStory3Jowai.018
+\ELANBegin 119.538
+\ELANEnd 124.320
+\ELANParticipant speaker#1
+\sound Clip__13_-_LathadlabotStory3.wav 119.538 124.320
+\tx EMPTY
+\mb EMPTY
+\ph EMPTY
+\ge EMPTY
+\ps EMPTY
+
+\ft `EMPTY
+
+\ELANMediaURL Clip__13_-_LathadlabotStory3.wav
+\ELANMediaMiME audio/x-wav
