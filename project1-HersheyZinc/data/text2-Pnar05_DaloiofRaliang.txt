@@ -1,0 +1,190 @@
+\id DaloiRaliang
+\ref DaloiofRaliang.001
+\ELANBegin 0.000
+\ELANEnd 12.038
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 0.000 12.038
+\tx nga     toh   u-chwas        lyngdoh    u-daloi       jong   ka-elaka                 raliang. ka-jingmut            daloi toh
+\mb nga     toh   u=      chwas  lyngdoh    u=      daloi jong   ka=     elaka            raliang  ka=     jing-   mut   daloi toh
+\ph ŋa     tɔʔ ˀu=    ʧwas  lŋ̩dɔʔ ˀu=    daloj ʤɔŋ ka=     ˀɛlaka         raliaŋ  ka=     ʤiŋ-  mut   daloj tɔʔ
+\ge 1sg.top be    M=      Chawas Lyngdoh    M=      daloi GEN    F=      village,township Raliang  F=      ab.NMZ- means daloi be
+\ps pn      v     clitic= name   n          clitic= n     Khasi  clitic= n                n        clitic= nmz-    v     n     v
+
+\tx u-nongshynshar           hapoh          ka-elaka
+\mb u=      nong-   synchar  ha-   poh      ka=     elaka
+\ph ˀu=    nɔŋ-  sn̩ʧar ha-   pɔʔ    ka=     ˀɛlaka
+\ge M=      ag.nmz- rule     LOC-  under,in F=      village,township
+\ps clitic= nmz-    v        case- loc      clitic= n
+
+\ft `I am Chwas Lyngdoh, the Daloi of the Raliang Elaka. The daloi's meaning/purpose is (as) the ruler in the elaka.'
+
+\ref DaloiofRaliang.002
+\ELANBegin 12.038
+\ELANEnd 24.584
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 12.038 18.584
+\tx bad   u-khleih          yong  ka-niam           ka-rukom       yong  ka-dustur         ka-riti         hapoh          ka-elaka
+\mb bad   u=      khleih    yong  ka=     niam      ka=     rukom  yong  ka=     dustur    ka=     riti    ha-   poh      ka=     elaka
+\ph baːt ˀu=    kʰleʲʔ jɔŋ ka=     niam      ka=     rukɔm jɔŋ ka=     dustur    ka=     riti    ha-   pɔʔ    ka=     ˀɛlaka
+\ge also  M=      head      GEN   F=      tradition F=      way    GEN   F=      tradition F=      culture LOC-  under,in F=      village,township
+\ps conj  clitic= n         case  clitic= n         clitic= n      case  clitic= n         clitic= n       case- loc      clitic= n
+
+\tx ka        yong  i.
+\mb ka        yong  i
+\ph ka        jɔŋ ˀi
+\ge 3sg.F.acc GEN   1pl
+\ps pn        case  pn
+
+\ft `also the head of our traditional religion in the village/elaka that belongs to us.'
+
+\ref DaloiofRaliang.003
+\ELANBegin 18.584
+\ELANEnd 35.886
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 18.584 35.886
+\tx tæ    kam       u-daloi       toh   i-synchar     i   ya   ka-khyndaw        wa   chyiap  yei       ki  nu    nu
+\mb tæ    kam       u=      daloi toh   i=   synchar  i   ya   ka=     khyndaw   wa   chyiap  ye-   i   ki  nu    nu
+\ph tɛ    kam       ˀu=    daloj tɔʔ ˀi= sn̩ʧar ˀi ja   ka=     kʰn̩daw wa   ʧʔiap je-   ˀi ki  nu    nu
+\ge nvis   like,want M=      daloi be    ACT= rule     1pl BEN  F=      earth     COMT soil    BEN-  1pl 3pl which which
+\ps deixis v         clitic= n     v     der= v        pn  case clitic= n         conj n       case- pn  pn  n     n
+
+\tx ki-jingæmkam            yong  u-paidbah                  hei-jingyatoh                   wa   ki-land         holding certificate
+\mb ki=     jing-   æmkam   yong  u=      paidbah            he-   i=      jing-   yatoh     wa   ki=     land    holding certificate
+\ph ki=     ʤiŋ-  ˀɛmkam jɔŋ ˀu=    paitbaʔ           he-   ˀi=    ʤiŋ-  jatɔʔ   wa   ki=     lan     holdiŋ sɛrtifiket
+\ge PL=     ab.NMZ- need     GEN   M=      crowd,congregation LOC-  N=      ab.NMZ- relations COMT PL=     land    holding certificate
+\ps clitic= nmz-    v        case  clitic= n                  case- clitic= nmz-    v         conj clitic= English English English
+
+\tx ki-revision       ki-patahali                 toh   ka-bor        yong  nga     u-rekomen
+\mb ki=     revision  ki=     pata  - hali        toh   ka=     bor   yong  nga     u=   recommend
+\ph ki=     riviʃɔn ki=     pata  - hali        tɔʔ ka=     bɔr  jɔŋ ŋa     ˀu= rekomɛn
+\ge PL=     revision  PL=     place - paddy.field be    F=      power GEN   1sg.top NF=  recommend
+\ps clitic= English   clitic= n     - n           v     clitic= n     case  pn      der= English
+
+\ft `so as the Daloi is the overseer of the land and soil used by the people in relating to the land holding certificate, the revision of paddy fields is my power to
+recommend.'
+
+\ref DaloiofRaliang.004
+\ELANBegin 35.886
+\ELANEnd 44.813
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 35.886 44.813
+\tx dæp   nei-tæ              u-phorward     cha  district council  ka-district      council  yee  ko        u-issue         pata  ya
+\mb dæp   ne-   i=      tæ    u=   phorward  cha  district council  ka=     district council  yee  ko        u=      issue   pata  ya
+\ph dɛp   ne-   ˀi=    tɛ    ˀu= pʰɔrwar ʧa  dɪstrik kawnsɪl ka=     dɪstrik kawnsɪl je   kɔ       ˀu=    ˀiʃu  pata  ja
+\ge CPLV   ABL-  N=      nvis   NF=  forward   ALL  district council  F=      district council  able 3sg.F.nom M=      issue   place BEN
+\ps aspect case- clitic= deixis der= English   case English  English  clitic= English  English  v    pn        clitic= English n     case
+
+\tx ki-paidbah                 ki-khon        ka-riot         yong  ka-elaka.
+\mb ki=     paidbah            ki=     khon   ka=     riot    yong  ka=     elaka
+\ph ki=     paitbaʔ           ki=     kʰɔn ka=     riɔt   jɔŋ ka=     ˀɛlaka
+\ge PL=     crowd,congregation PL=     child  F=      citizen GEN   F=      village,township
+\ps clitic= n                  clitic= n      clitic= n       case  clitic= n
+
+\ft `after that to forward to the district councy any place issue (land issue?) of the people, the citizens (of an area, past, present, future - "ki khon ka riot") of the
+Elaka..'
+
+\ref DaloiofRaliang.005
+\ELANBegin 44.813
+\ELANEnd 51.779
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 44.813 51.779
+\tx katæ          toh   ka-bor        yong  u-daloi       bad   ha   ka-bor        yong  nga     u-daloi       i   yee  u-shynshar
+\mb ka=     tæ    toh   ka=     bor   yong  u=      daloi bad   ha   ka=     bor   yong  nga     u=      daloi i   yee  u=   synchar
+\ph ka=     tɛ    tɔʔ ka=     bɔr  jɔŋ ˀu=    daloj baːt ha   ka=     bɔr  jɔŋ ŋa     ˀu=    daloj ˀi je   ˀu= sn̩ʧar
+\ge F=      nvis   be    F=      power GEN   M=      daloi also  LOC  F=      power GEN   1sg.top M=      daloi 1pl able NF=  rule
+\ps clitic= deixis v     clitic= n     case  clitic= n     conj  case clitic= n     case  pn      clitic= n     pn  v    der= v
+
+\tx khadar   ya   u-bishar    i   ya   ki-mokot        duma
+\mb khadar   ya   u=   bichar i   ya   ki=     mokot   duma
+\ph kʰadar  ja   ˀu= biʧar ˀi ja   ki=     mɔkɔt duma
+\ge regulate BEN  NF=  judge  1pl BEN  PL.nmz= file    tobacco
+\ps v        case der= v      pn  case der=    v       n
+
+\ft `the daloi also holds the power (ka bor)... my power as daloi is to rule and regulate ("u shynshar khadar" - rules and regulations) by judging cases.'
+
+\ref DaloiofRaliang.006
+\ELANBegin 51.779
+\ELANEnd 66.366
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 51.779 66.366
+\tx ki-rebenu       case    ki-suit         case    kamtæ          tæ    tæ    tæ    ki-kam       yong  nga     ka        u-daloi       toh
+\mb ki=     rebenu  case    ki=     suit    case    kam-     tæ    tæ    tæ    tæ    ki=     kam  yong  nga     ka        u=      daloi toh
+\ph ki=     rebe.nu kes     ki=     sut     kes     kam-     tɛ    tɛ    tɛ    tɛ    ki=     kam  jɔŋ ŋa     ka        ˀu=    daloj tɔʔ
+\ge PL=     revenue case    PL=     suit    case    as,like- nvis   nvis   nvis   nvis   PL.nmz= work GEN   1sg.top 3sg.F.acc M=      daloi be
+\ps clitic= English English clitic= English English adv-     deixis deixis deixis deixis der=    v    case  pn      pn        clitic= n     v
+
+\tx boon    bha   hapoh          ka-elaka                 raliang wa  u-pait       i   ya   u         ki-pood          ki-sam
+\mb boon    bha   ha-   poh      ka=     elaka            raliang wa  u=   pait    i   ya   u         ki=     pood     ki=     sam
+\ph bon     bha   ha-   pɔʔ    ka=     ˀɛlaka         raliaŋ wa  ˀu= paʲt̪ ˀi ja   ˀu       ki=     poːt    ki=     sam
+\ge be.much INTS1 LOC-  under,in F=      village,township Raliang NMZ NF=  look    1pl BEN  3sg.M.nom PL=     boundary PL=     boundary
+\ps v       adv   case- loc      clitic= n                n       mod der= v       pn  case pn        clitic= n        clitic= n
+
+\ft `revenue cases, suit cases, like that.. so my work as the daloi is very many (things) in the Elaka of Raliang that can be seen around.'
+
+\ref DaloiofRaliang.007
+\ELANBegin 66.366
+\ELANEnd 78.708
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 66.366 78.708
+\tx yei       ki-khajia        ki-awri        awra   yong  ki-khon        ka-riot         yong  i   hapoh          ka-elaka                 wa
+\mb ye-   i   ki=     khajia   ki=     awri   awra   yong  ki=     khon   ka=     riot    yong  i   ha-   poh      ka=     elaka            wa
+\ph je-   ˀi ki=     kʰaʤia ki=     ˀawri ˀawra jɔŋ ki=     kʰɔn ka=     riɔt   jɔŋ ˀi ha-   pɔʔ    ka=     ˀɛlaka         wa
+\ge BEN-  1pl PL.nmz= fight    PL.nmz= argue  argue  GEN   PL=     child  F=      citizen GEN   1pl LOC-  under,in F=      village,township NMZ
+\ps case- pn  der=    v        der=    v      v      case  clitic= n      clitic= n       case  pn  case- loc      clitic= n                mod
+
+\tx u-pynbeit            pynsud        i   ki  u-thoo      lad   kamnu   u-pynchong          suk         chongsain      ya
+\mb u=   pyn-    bait    pyn-    sud   i   ki  u=   thoo   lad   kammon  u=   pyn-    chong  suk         chong  - sain  ya
+\ph ˀu= pn̩-   baʲt̪ pn̩-   suːt ˀi ki  ˀu= tʰo   laːt kammɔn ˀu= pn̩-   ʧɔŋ suk         ʧɔŋ - saʲn ja
+\ge NF=  CAUS-   direct  CAUS-   care  1pl 3pl NF=  create way   how     NF=  CAUS-   sit    be.peaceful sit    - agree BEN
+\ps der= prefix- v       prefix- v     pn  pn  der= v      n     q       der= prefix- v      v           v      - v     case
+
+\tx ki-khon        ka-riot         yong  i   hapoh          ka-elaka                 raliang
+\mb ki=     khon   ka=     riot    yong  i   ha-   poh      ka=     elaka            raliang
+\ph ki=     kʰɔn ka=     riɔt   jɔŋ ˀi ha-   pɔʔ    ka=     ˀɛlaka         raliaŋ
+\ge PL=     child  F=      citizen GEN   1pl LOC-  under,in F=      village,township Raliang
+\ps clitic= n      clitic= n       case  pn  case- loc      clitic= n                n
+
+\ft `for the fights and arguments of the people and citizens in the Elaka, the responsibility for people ("u pynbeit pynsud") so as to make them a better/perfect way of
+living ("u thoow lad") how to work for peace, peacefully ("u pynchong suk chongsain"), for our children and citizens in the Elaka of Raliang..'
+
+\ref DaloiofRaliang.008
+\ELANBegin 78.708
+\ELANEnd 92.470
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 78.708 92.470
+\tx tæ    toh   ka-kamram      ka        u-daloi       yong  ka-elaka                 raliang bad   kamjooh          u-pait       ya
+\mb tæ    toh   ka=     kamram ka        u=      daloi yong  ka=     elaka            raliang bad   kam-     jooh    u=   pait    ya
+\ph tɛ    tɔʔ ka=     kamram ka        ˀu=    daloj jɔŋ ka=     ˀɛlaka         raliaŋ baːt kam-     ʤoʔ   ˀu= paʲt̪ ja
+\ge nvis   be    F=      duty   3sg.F.acc M=      daloi GEN   F=      village,township Raliang also  as,like- be.same NF=  look    BEN
+\ps deixis v     clitic= n      pn        clitic= n     case  clitic= n                n       conj  adv-     v       der= v       case
+
+\tx ka-knia                ka-khriam    yei-læh            niam      læh  rukom  hapoh          yong  ka-raid           i-thaw        yong
+\mb ka=     knia           ka=  khriam  ye-   i=      læh  niam      læh  rukom  ha-   poh      yong  ka=     raid      i=      thaw  yong
+\ph ka=     knia           ka=  kʰriam je-   ˀi=    lɛʔ niam      lɛʔ rukɔm ha-   pɔʔ    jɔŋ ka=     rait̪    ˀi=    tʰaw jɔŋ
+\ge F=      sacrifice,rite RES= chant   BEN-  N=      do    tradition do    way    LOC-  under,in GEN   F=      community N=      place GEN
+\ps clitic= n              der= v       case- clitic= v     n         v     n      case- loc      case  clitic= n         clitic= n     case
+
+\tx i   hapoh          ka-elaka.
+\mb i   ha-   poh      ka=     elaka
+\ph ˀi ha-   pɔʔ    ka=     ˀɛlaka
+\ge 1pl LOC-  under,in F=      village,township
+\ps pn  case- loc      clitic= n
+
+\ft `So this is the duty of the Daloi of the Eleka of Ralian,g also it is necessary to watch the sacrifices for the sake of tradition in our communal land's place in the
+Elaka..'
+
+\ref DaloiofRaliang.009
+\ELANBegin 92.470
+\ELANEnd 100.720
+\ELANParticipant speaker#1
+\sound Clip__6_-_Daloi_of_Raliang.wav 92.470 100.720
+\tx kattæ      toh   ka-kamram      yong  nga     ka        u-daloi.      tæ    da   biang     nong  kattæ.
+\mb kat- tæ    toh   ka=     kamram yong  nga     ka        u=      daloi tæ    da   biang     nong  kat- tæ
+\ph kat- tɛ    tɔʔ ka=     kamram jɔŋ ŋa     ka        ˀu=    daloj tɛ    da   biaŋ     nɔŋ kat- tɛ
+\ge as-  nvis   be    F=      duty   GEN   1sg.top 3sg.F.acc M=      daloi nvis   REAL be.enough conf  as-  nvis
+\ps adv- deixis v     clitic= n      case  pn      pn        clitic= n     deixis mood v         q     adv- deixis
+
+\ft `Like that is my duty as the Daloi. So it's enough, right?"
+
+\ELANMediaURL Clip__6_-_Daloi_of_Raliang.wav
+\ELANMediaMiME audio/x-wav

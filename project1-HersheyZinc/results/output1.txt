@@ -1,0 +1,25 @@
+Find all with gloss bus
+
+tx : chong       o           da          ka-bus     
+mb : chong       o           da          ka=         bus        
+ph : ʧɔŋ         ˀɔ          da          ka=         bɔs        
+ge : sit         1sg.nom     inst        f=          bus        
+ps : v           pn          case        clitic=     english    
+ft : i was sitting in the bus
+------------------------------------------------------------------------------------------------------------------------
+
+tx : booh        ki          ka-generator, kylla       ka-bus,     ban         ka-generator, yap         ko,         ka-wi      
+mb : booh        ki          ka=         generator   kylla       ka=         bus         ban         ka=         generator   yap         ko          ka=         wi         
+ph : boʔ         ki          ka=         ʤɛnɛretɔr   kl̩la       ka=         bɔs         ban         ka=         ʤɛnɛretɔr   jap         kɔ          ka=         wi         
+ge : put,keep    3pl         f=          generator   change      f=          bus         fold,fall   f=          generator   die         3sg.f.nom   f=          one        
+ps : v           pn          clitic=     english     v           clitic=     english     v           clitic=     english     v           pn          clitic=     num        
+ft : there was the generator that was kept in that bus, the generator fell over this woman and she died
+------------------------------------------------------------------------------------------------------------------------
+
+tx : hei-tæ      i-por,      sah         ka-ni       ka-kjat     o,          ha          ka-ni       ka-tnoom    yong        ka-bus     
+mb : he-         i=          tæ          i=          por         sah         ka=         ni          ka=         kjat        o           ha          ka=         ni          ka=         tnoom       yong        ka=         bus        
+ph : he-         ˀi=         tɛ          ˀi=         pɔr         saʔ         ka=         ni          ka=         kʤat        ˀɔ          ha          ka=         ni          ka=         tnom        jɔŋ         ka=         bɔs        
+ge : loc-        n=          nvis        n=          time        stay        f=          prox        f=          leg         1sg.nom     loc         f=          prox        f=          roof        gen         f=          bus        
+ps : case-       clitic=     deixis      clitic=     n           v           clitic=     deixis      clitic=     n           pn          case        clitic=     deixis      clitic=     n           case        clitic=     english    
+ft : my leg too got stuck on the roof of the bus
+------------------------------------------------------------------------------------------------------------------------

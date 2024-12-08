@@ -1,0 +1,17 @@
+Find all glosses with POS noun (n) followed by number (num)
+
+tx : nga         retired     o           ha          u-snæm      khatkhynde  spah        sanphaw     soo        
+mb : nga         retired     o           ha          u=          snæm        khatkhynde  spah        sanphaw     soo        
+ph : ŋa          ritait      ˀɔ          ha          ˀu=         snɛm        kʰatkʰn̩de  spaʔ        sanpʰaw     so         
+ge : 1sg.top     retired     1sg.nom     loc         m=          year        nineteen    hundred     fifty       four       
+ps : pn          english     pn          case        clitic=     n           num         num         num         num        
+ft : i retired from my service in the year 1954
+------------------------------------------------------------------------------------------------------------------------
+
+tx : ha          u-snæm      khatkhynde  spah        sanphaw     san,        lai         shillong   
+mb : ha          u=          snæm        khatkhynde  spah        sanphaw     san         lai         shillong   
+ph : ha          ˀu=         snɛm        kʰatkʰn̩de  spaʔ        sanpʰaw     san         laj         ʃl̩lɔŋ     
+ge : loc         m=          year        nineteen    hundred     fifty       five        go          shillong   
+ps : case        clitic=     n           num         num         num         num         v           name       
+ft : in the year 1955, i went to shillong
+------------------------------------------------------------------------------------------------------------------------
